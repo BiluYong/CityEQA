@@ -39,8 +39,6 @@
 │   ├── The CityEQA-EC Dataset.
 ├── Evaluation
 │   ├── LLM-score code and prompt.
-├── GroundSAM
-│   ├── GroundSAM model files.
 ├── Utils
 │   ├── utils and arguments files.
 
