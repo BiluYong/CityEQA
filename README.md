@@ -10,7 +10,7 @@
 - **(2025/02/17)** Code and CityEQA-EC dataset are released!
 
 
-## An example of our CityEQA task and the typical workflow of the proposed PMA agent''
+## An example of our CityEQA task and the typical workflow of the proposed PMA agent
 <p align="center">
   <img src="Image/example.png">
 </p>
@@ -44,3 +44,5 @@
 
 
 ```
+### The installation and usage instructions for our code will be updated shortly.
+
